@@ -66,6 +66,12 @@ body {
     color: var(--base);
 }
 
+.logo img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+
 .logo svg {
     flex-shrink: 0;
 }
